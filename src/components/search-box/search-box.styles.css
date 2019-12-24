@@ -1,7 +1,12 @@
 .search {
+    border: none;
     padding: 10px;
     margin-bottom: 30px;
     width: 80%;
     height: 70px;
     text-align: center;
+    background-color: black;
+    color: #ffffff;
+    font-family: 'Bigelow Rules';
+    font-size: 40px;
 }
